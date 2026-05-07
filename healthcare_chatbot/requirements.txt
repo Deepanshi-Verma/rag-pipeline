@@ -1,0 +1,13 @@
+
+langchain
+langchain-community
+langchain-core
+langchain-groq
+faiss-cpu
+sentence-transformers
+rank-bm25
+streamlit
+python-dotenv
+ragas
+datasets
+groq
